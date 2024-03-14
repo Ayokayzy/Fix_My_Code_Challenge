@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-class Square():
+class Square:
     """Defines a square"""
     width = 0
     height = 0
