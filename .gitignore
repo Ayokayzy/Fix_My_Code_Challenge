@@ -1,0 +1,5 @@
+.venv
+node_modules
+site-packages
+site-packages/
+node_modules/
